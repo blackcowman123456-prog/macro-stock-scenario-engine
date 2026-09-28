@@ -1,0 +1,4 @@
+market: korea
+benchmark: KOSPI
+seed: 42
+sources: [ECOS, KOSIS, pykrx, yfinance]

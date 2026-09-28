@@ -1,0 +1,4 @@
+market: usa
+benchmark: SP500
+seed: 42
+sources: [FRED, yfinance, SEC]
